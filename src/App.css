@@ -1,0 +1,16 @@
+.custom-background{
+    height: 400px;
+    width: 100%;
+    objectFit: cover;
+}
+.event-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.event-image {
+    max-height: 200px;
+    object-fit: cover;
+}

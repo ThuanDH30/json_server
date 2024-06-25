@@ -1,0 +1,53 @@
+
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Woman bakes expletive-laden pies to \u2018get a rise\u2019 out of her grandmother in annual tradition",
+      "description": "\u201cWhat started as a means to get a rise out of my Grammy has snowballed into a weird family tradition,\u201d wrote Jess Lydon.",
+      "images": "https://get.pxhere.com/photo/dish-meal-food-cooking-barbeque-fish-meat-lunch-barbecue-cuisine-picnic-dinner-tong-brunch-sense-114000.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Martha Stewart shows off her 30 pies after canceled Thanksgiving dinner plans",
+      "description": "Queen of Thanksgiving Martha Stewart may not be hosting a turkey dinner this year but fret not, she will still be celebrating with literally 30 pies.",
+      "images": "https://photo.znews.vn/w1920/Uploaded/zngure/2020_10_24/city_church_christchurch_ynF4v8W7MIw_unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Burger King is testing a new breakfast sandwich",
+      "description": "This is a win for the flatbread fans.",
+      "images": "https://images.ctfassets.net/pjshm78m9jt4/385760_header/f775f44ecaab59a8028daf34944d906e/importedImage385760_header?fm=avif&fit=fill&w=830&h=467&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Popeyes permanently adds chicken wings to its menu",
+      "description": "And you can get \u2019em in five different flavors.",
+      "images": "https://img1.wsimg.com/isteam/ip/83fb54ef-41f3-42f9-9a51-dff5f8838577/al-elmes-ULHxWq8reao-unsplash%20(1).jpg/:/cr=t:35.16%25,l:20.93%25,w:56.18%25,h:42.13%25/rs=w:2480,h:1240,cg:true,m"
+    },
+    {
+      "id": 5,
+      "title": "Top salmon with a sizzling mix of aromatics and spices",
+      "description": "Tadka is a ubiquitous South Asian technique that adds a dramatic last-minute coat of flavor.",
+      "images": "https://i.pinimg.com/originals/61/78/f5/6178f57630591201bde78882c5f9b508.jpg"
+    },
+    {
+      "id": 6,
+      "title": "80 Christmas dinner ideas for the ultimate holiday feast",
+      "description": "Build the perfect Christmas menu with these delicious recipes.",
+      "images": "https://assets.epicurious.com/photos/6328b88939378c30304b2a3e/16:9/w_5939,h_3341,c_limit/PorkRoastPotatoes_RECIPE_091522_39784.jpg"
+    },
+    {
+      "id": 7,
+      "title": "How to make the easiest prime rib roast for the holidays",
+      "description": "Use these tips and tricks to make a juicy and amazingly delicious prime rib roast.",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstTsBQZFqgjxNUHwvgXDgaV5TqjiZ3qF5Pg&s"
+    },
+    {
+      "id": 8,
+      "title": "Turn leftover turkey into a flavorful Waldorf salad",
+      "description": "This light, bright turkey salad is the best post-Thanksgiving lunch.",
+      "images": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2023_47/2040496/rachel-mansfield-tureky-square-te-231122.jpg"
+    }
+  ]
+}
